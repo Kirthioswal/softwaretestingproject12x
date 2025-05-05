@@ -14,10 +14,13 @@ The purpose of this project is to:
 ## 📁 Repository Structure
 
 /Test Plans
-└── [FeatureName]_TestPlan.md
+TestPlan.md
 
 /Test Cases
-└── [FeatureName]_TestCases.md
+TestCases.md
+
+/Test Strategy
+TestStrategy.md
 
 yaml
 Copy
